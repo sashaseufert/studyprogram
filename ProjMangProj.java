@@ -89,8 +89,7 @@ public class ProjMangProj {
     }
     
     public static void main(String[] args) {
-        Chapter chapter = readNotes().get(1);
-        System.out.println(chapter.getBody());
+        
     }
     
 }
