@@ -27,7 +27,7 @@ public class ProjMangProj {
                         chapters.add(new Chapter(line,""));
                     }else{
                         int length = chapters.size();
-                        (chapters.get(length - 1)).setBody((chapters.get(length - 1)).getBody() + "\n" + line);
+                        (chapters.get(length - 1)).setBody((chapters.get(length - 1)).getBody() + line + "\n");
                     }
                 }
             }
@@ -89,7 +89,8 @@ public class ProjMangProj {
     }
     
     public static void main(String[] args) {
-        
+        Chapter chapter = readNotes().get(1);
+        System.out.println(chapter.getBody());
     }
     
 }
