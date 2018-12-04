@@ -37,11 +37,11 @@ public class ProjMangProj {
         return chapters;
     }
     
-    public static Question[] readQuestions(String[] args) {
+    public static Question[] readQuestions() {
         Question[] questionSet = new Question[10];
         try {
             int questionNumber = -1;
-            FileReader fr = new FileReader("src\\sam\\QuizContent");
+            FileReader fr = new FileReader("src\\projmangproj\\QuizContent");
             BufferedReader br = new BufferedReader(fr);
             boolean eof = false;
             String question = "";
