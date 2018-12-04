@@ -1,0 +1,38 @@
+Chapter 1: System
+A system is a combination of software and hardware that provides a business solution for a business problem. 
+It involves clients, analysts, designers, developers, testers, users, etc.
+It involves a process, just like making movies, science experiments, etc.
+Chapter 2: What Does A System Need?
+Success of a system is measured by: 
+1. Does the project solve the problem?
+2. Is it easy to maintain and administer?
+3. Is it scalable and meet the needs of the client?
+4. Is a successful support system in place?
+5. Was it delivered on time and ready to go?
+6. Was the client happy with the finished product?
+Chapter 3: The Software Development Process
+Organization, planning, and utilizing various diagrammatic conventions are needed to develop a high quality software.
+Computer scientists have created a view of this process.
+This is known as the Software Development Life Cycle, or the SDLC.
+Chapter 4: The SDLC and the Waterfall Model
+The Waterfall Model is developed by Dr. Winston Royce in 1970 based on his experience developing software for spacecraft missions
+The Waterfall Model Consists Of:
+1. Problem Statement
+2. Analysis
+3. Design
+4. Implementation
+5. Integration and Test
+6. Maintenance
+In each step of the waterfall model, errors could occur that forces the developers to retreat to earlier step(s).
+Mistakes found early in the process are easier to solve than the mistakes found later.
+The cost of developing software is not spread equally over the phases. Maintenance is often the longest process.
+Chapter 5: Project Management Tools
+1. Gantt Chart:
+Developed by mechanical engineer Henry Gnatt in the 1910's 
+The Gantt Chart is typically used by people working on a large project such as dams or highway systems
+The Gantt Chart helps project managers visualize, schedule, and track progress in software development
+2. Unified Modeling Language (UML)
+UML visually specifies parts of a system.
+Complex software designs are much more easily described through UML than textually.
+3. Daily Log
+4. Weekly Reports 
